@@ -1,4 +1,7 @@
 # Welcome to my Page
+
+## [Resume](https://drive.google.com/file/d/1eYFzXLwq1LZj6JPAaB-24rya5kri-WT3/view?usp=sharing)
+
 Please see my projects and/or coursework below that correspond with my areas of expertise.
 
 * Probability and Statistics
