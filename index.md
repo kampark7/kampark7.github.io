@@ -1,9 +1,11 @@
-## Welcome to my Page
-Checkout some of my recent projects and see what I am up to next!
+# Welcome to my Page
+Please see my projects and/or coursework below that correspond with my areas of expertise.
+
+
 
 
 
 
 ## Contact me at:
-* *kamrynparker@u.boisestate.edu*
+* *k.parker7@yahoo.com*
 * *www.linkedin.com/in/kamrynparker*
