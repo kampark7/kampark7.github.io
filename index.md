@@ -11,7 +11,7 @@ Please see my projects and/or coursework below that correspond with my areas of 
 
 * Machine Learning
   - [Logistic Regression- Python](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/IntroToMachineLearning/homework5/hw5.ipynb)
-  - [MLB All-Star Predictor Project - Python](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/IntroToMachineLearning/homework5/hw5.ipynb)
+  - [MLB All-Star Predictor Project - Python](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/IntroToMachineLearning/finalproject/finalproject.ipynb)
     Takes in rookie player stats (since 1947) and attempts to predict if they will be an all-star or not.
   - [Decision Tree Classifier - Python](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/IntroToMachineLearning/homework6/Homework6.ipynb)
   - [Unsupervised Clustering - R](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/PrincipalsofDataScienceinR/Homeworks/Homework%2013%20-%20Unsupervised%20Clustering.rmd)
