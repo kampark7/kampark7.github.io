@@ -1,4 +1,4 @@
-# Welcome to my Page
+# Welcome to Kamryn Parker's Page
 
 
 Please see my projects and/or coursework below that correspond with my areas of expertise.
