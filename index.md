@@ -21,5 +21,5 @@ Please see my projects and/or coursework below that correspond with my areas of 
 
 
 ## Contact me at:
-* *k.parker7@yahoo.com*
+* *kamryndparker@gmail.com*
 * *www.linkedin.com/in/kamrynparker*
