@@ -1,7 +1,7 @@
 # Welcome to Kamryn Parker's Page
 
 
-Please see my projects and/or coursework below that correspond with my areas of expertise.
+A compilation of projects and coursework I have completed during my undergradute and gradute education. Please view the projects below that correspond with my areas of expertise.
 
 ### Probability and Statistics
   - [Naive Bayes - Python](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/EssentialsOfDataSciecne/hw05/naive-bayes.ipynb)
