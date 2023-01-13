@@ -15,7 +15,6 @@ Please see my projects and/or coursework below that correspond with my areas of 
   - [Decision Tree Classifier - Python](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/IntroToMachineLearning/homework6/Homework6.ipynb)
   - [Multi-Class Classification Analysis - Python](https://github.com/kampark7/kampark7.github.io/blob/master/coursework/MultiClassClassification.ipynb)
   - [Logistic Regression- Python](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/IntroToMachineLearning/homework5/hw5.ipynb)
-  - [Unsupervised Clustering - R](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/PrincipalsofDataScienceinR/Homeworks/Homework%2013%20-%20Unsupervised%20Clustering.rmd)
   - [Idaho Food Bank - R](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/StatisticalModelinginR/Project3/Project3.Rmd) and [Write-Up](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/StatisticalModelinginR/Project3/Project3WriteUp.pdf) Attempts to model most popular times people visit a local food banck for different services.
   - [Predicting House Prices - R](https://github.com/kampark7/CodeProjectsandCoursework/blob/master/StatisticalModelinginR/Project4/Project4.Rmd) Takes in housing data and uses Lasso Regression to predict how much the house should be listed for.
 
